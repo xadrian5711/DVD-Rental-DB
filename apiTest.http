@@ -1,0 +1,2 @@
+GET /api/films. HTTP/1.1
+HOST: localhost:3000
